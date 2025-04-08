@@ -12,10 +12,10 @@ You can install PeakFast directly from the Chrome Web Store or by downloading th
 - **PeakFast-Extension-Installer.exe**: Windows installer for the extension
 
 ### Release Downloads
-The latest release files can be downloaded from our [Download Page](https://iamalbertly.github.io/PeakFast-Extension-Releases/):
+The latest release files can be downloaded directly from GitHub:
 
-- [Download PeakFast-v1.0.1.crx](https://iamalbertly.github.io/PeakFast-Extension-Releases/PeakFast-v1.0.1.crx)
-- [Download PeakFast-Extension-Installer.exe](https://iamalbertly.github.io/PeakFast-Extension-Releases/PeakFast-Extension-Installer.exe)
+- [Download PeakFast-v1.0.1.crx](https://github.com/iamalbertly/PeakFast-Extension-Releases/releases/download/v1.0.1/PeakFast-v1.0.1.crx)
+- [Download PeakFast-Extension-Installer.exe](https://github.com/iamalbertly/PeakFast-Extension-Releases/releases/download/v1.0.1/PeakFast-Extension-Installer.exe)
 
 You can also view the [Releases page](https://github.com/iamalbertly/PeakFast-Extension-Releases/releases/latest) for release notes.
 
